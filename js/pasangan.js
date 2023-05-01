@@ -1,4 +1,4 @@
-var randomQ = randomInt(0, 30);
+var randomQ = randomInt(0, 14);
 function randomInt(lowest, size) {
   return Math.floor(Math.random() * size) + lowest;
 }
