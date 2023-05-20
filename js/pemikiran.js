@@ -51,6 +51,7 @@ var quotes = [
   'Jika bisa terlahir kembali, Apakah kamu ingin menjadi anak tunggal, sulung, tengah, atau bungsu? Mengapa?',
   'Bagaimana pandanganmu tentang hubungan beda agama? ',
   'Menurutmu apakah menikah adalah sebuah keharusan? Pada umur berapa kamu ingin menikah?',
+  'Pilih satu : Bakat atau kerja keras',
   'Bagaimana kamu ingin diingat saat kamu meninggal?',
 ];
 
