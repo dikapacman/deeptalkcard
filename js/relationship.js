@@ -71,6 +71,11 @@ var quotes = [
   'Apakah kamu dapat membayangkan pasanganmu sebagai suami/istri? Mengapa?',
   'Apakah menurutmu pasanganmu berhak mengetahui berapa penghasilanmu?',
   'Ceritakan hal yang kamu pelajari dari setiap mantan pasanganmu',
+  'Kalau kamu kecewa sama pasanganmu bagaimana caranya biar kamu bisa maafin pasanganmu?',
+  'Kalau kamu lagi marah karena pasanganmu, kamu mau pasanganmu melakukan apa?',
+  'Apa yang bikin kamu yakin buat ngejalanin hubungan sama pasanganmu sekarang?',
+  'Momen apa yang pernah kita lakuin bersama dan pengen banget kamu ulangi?',
+  'Kamu mau pasanganmu jadi orang yang seperti apa buat kamu?',
 ];
 
 function newQuote() {
