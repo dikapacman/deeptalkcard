@@ -46,15 +46,12 @@ var quotes = [
   'Ketika situasi apa kamu merasa khawatir tentang pasanganmu?',
   'Apa yang kamu takuti dari hubungan kita?',
   'Apa yang kamu harapkan pasanganmu lakukan ketika kamu merasa gagal/sedih?',
-  'Apakah kamu pikir kita akan menjadi orang tua yang baik kelak?',
   'Apa hal terbaik yang pernah kamu dapatkan dari pasanganmu saat ini?',
   'Apa pelajaran terbesar yang kamu pelajari dari hubungan kita selama ini?',
   'Pernahkah kamu berpikir untuk mengakhiri hubungan kita? Ceritakan',
-  'Nilai apa yang ingin kamu terapkan ke anak anak nanti?',
   'Mana yang lebih penting, menerima atau memaafkan?',
   'Sebutkan sebuah momen yang membuatmu tertarik pertama kali pada pasanganmu?',
   'Dari skala 1-10, seberapa kompak kamu dan pasangan mu? Mengapa?',
-  'Apakah kamu punya rencana memperkerjakan asisten rumah tangga atau pengasuh? Berapa dan Mengapa?',
   'Apakah mengakhiri suatu hubungan adalah sebuah pilihan?',
   'Kapan kamu merasa diapresiasi oleh pasanganmu?',
   'Bagaimana kesan pertama teman teman dan keluargamu tentang pasanganmu? Bagaimana pandangan mereka sekarang?',
@@ -76,6 +73,7 @@ var quotes = [
   'Apa yang bikin kamu yakin buat ngejalanin hubungan sama pasanganmu sekarang?',
   'Momen apa yang pernah kita lakuin bersama dan pengen banget kamu ulangi?',
   'Kamu mau pasanganmu jadi orang yang seperti apa buat kamu?',
+  'Apakah menurutmu menonton pornografi adalah bentuk perselingkuhan? Kenapa?',
 ];
 
 function newQuote() {
